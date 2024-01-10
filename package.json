@@ -1,0 +1,12 @@
+{
+  "name": "com.xrrca.createwithvrworkshoppackage",
+  "version": "1.0.0",
+  "displayName": "Create With VR Workshop Package",
+  "description" : "Workshop project and materials for getting started with VR development in Unity For where I got the lesson plan material from Unity Learn's Create with VR Course Environment Assets from JustCreate free packages, See License in GithubRepo",
+  "unity": "2019.4",
+  "author": {
+    "name": "Kyle Ramsey"
+    "email": "kyle.ramsey@rca.ac.uk"
+    "url": "https://github.com/XRRCA"
+  }
+}
